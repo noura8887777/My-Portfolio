@@ -777,7 +777,7 @@ export default function Portfolio() {
       {/* ── FOOTER ── */}
       <footer style={{ padding:"1.8rem 4rem", borderTop:`1px solid ${C.border}`, display:"flex", justifyContent:"space-between", alignItems:"center" }}>
         <NouraLogo size={26}/>
-        <span style={{ fontSize:"0.65rem", color:C.muted, fontFamily:sans, letterSpacing:"0.08em" }}>© 2024 Noura · Full-Stack Developer</span>
+        <span style={{ fontSize:"0.65rem", color:C.muted, fontFamily:sans, letterSpacing:"0.08em" }}>© 2025 Noura · Full-Stack Developer</span>
       </footer>
 
       <style>{`
