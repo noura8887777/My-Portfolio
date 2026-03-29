@@ -519,7 +519,7 @@ export default function Portfolio() {
             {[
               { icon:"✉",  label:"Email",    value:"nouraeljammal7@gmail.com",                     href:"mailto:nouraeljammal7@gmail.com" },
               { icon:"in", label:"LinkedIn", value:"linkedin.com/in/noura-el-jammal-54762034b",    href:"https://www.linkedin.com/in/noura-el-jammal-54762034b" },
-              { icon:"⌥",  label:"GitHub",   value:"github.com/noura8887777",                      href:"https://github.com/noura8887777" },
+              { icon:"⌥",  label:"GitHub",   value:"github.com/noura-el-jammal",                      href:"https://github.com/noura-el-jammal" },
               { icon:"📞", label:"Phone",    value:"+212 711 879 085",                              href:"tel:+212711879085" },
             ].map((item,i,arr)=>(
               <Reveal key={item.label} delay={i*80}>
